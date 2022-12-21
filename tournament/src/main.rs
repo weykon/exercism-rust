@@ -1,5 +1,5 @@
 use tournament::tally;
-
+mod lib0;
 fn main() {
     let result = tally(
         "Allegoric Alaskans;Blithering Badgers;win
