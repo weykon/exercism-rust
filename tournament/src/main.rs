@@ -10,5 +10,5 @@ Blithering Badgers;Devastating Donkeys;loss
 Allegoric Alaskans;Courageous Californians;win",
     );
 
-    println!("{:?}",result);
+    println!("{:?}", result);
 }
